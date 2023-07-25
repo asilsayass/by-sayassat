@@ -14,7 +14,7 @@ const Brand = (props) => {
       <svg
         width={127}
         height={24}
-        xmlns="https://svgur.com/i/vku.svg"
+        xmlns="file:///C:/Users/%D0%90%D1%81%D1%8B%D0%BB%D0%B1%D0%B5%D0%BA/Downloads/Logotype%20Sneakers%20Shoes%20Store%20Logo%20Neon.svg"
         viewBox="0 0 127.67 23.36"
       >
         <path
